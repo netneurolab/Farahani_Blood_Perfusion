@@ -4,7 +4,7 @@ Authors: Asa Farahani, Zhen-Qi Liu, Eric G. Ceballos, Justine Y. Hansen, Karl We
 This repository contains the code used to generate the results in the "[Cerebral blood perfusion across biological systems and the human lifespan](https://www.biorxiv.org/content/10.1101/2025.02.05.636674v1)" maniuscript.
 
 ## Data Confidentiality Notice
-The Arterial Spin Labeling (ASD) dataset used in this study is provided by the HCP Lifespan studies, and cannot be publicly released by us. For more details and to request access to the dataset, please visit the [HCP Lifespan](https://www.humanconnectome.org/lifespan-studies) website.
+The Arterial Spin Labeling (ASL) dataset used in this study is provided by the HCP Lifespan studies, and cannot be publicly released by us. For more details and to request access to the dataset, please visit the [HCP Lifespan](https://www.humanconnectome.org/lifespan-studies) website.
 
 ## Repository Structure
 ### Code

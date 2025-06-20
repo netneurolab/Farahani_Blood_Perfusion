@@ -1,4 +1,4 @@
-# import sys
+rpy2                          3.5.17rpy2                          3.5.17rpy2                          3.5.17# import sys
 # print(sys.version)
 
 python version is 3.7.16.
@@ -51,6 +51,7 @@ future                        1.0.0
 h5py                          3.8.0
 idna                          3.4
 imagesize                     1.4.1
+rpy2                          3.5.17
 importlib-metadata            6.7.0
 importlib-resources           5.2.0
 inflection                    0.5.1

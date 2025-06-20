@@ -27,15 +27,17 @@ nnodes_half_subcortex_S4 = 27 # Num parcels in Tian S4 atlas - one hemisphere (s
 #------------------------------------------------------------------------------
 
 # Raw HCP data directories
-path_mri       = '/media/afarahani/Expansion/HCP_DATA_fromServer/'
-path_ASL_aging = '/media/afarahani/Expansion/HCP_DATA_fromServer/HCP_ASL/'
-path_mri_dev   = '/media/afarahani/Expansion/DATA_ASL_raw_development/'
+path_mri       = '/media/afarahani/Expansion1/HCP_DATA_fromServer/'
+path_ASL_aging = '/media/afarahani/Expansion1/HCP_DATA_fromServer/HCP_ASL/'
+path_mri_dev   = '/media/afarahani/Expansion1/DATA_ASL_raw_development/'
+path_wm_aging  = '/media/afarahani/Expansion1/ASL_data_fro_Karl/' # rev1 - WM perfusion
+path_wm_dev    = '/media/afarahani/Expansion1/ASL_dev_wm/'        # rev1 - - WM perfusion
 
 # Path for HCP-wb_command
 path_wb_command = '/home/afarahani/Downloads/workbench/bin_linux64/'
 
 # Paths where results, data, and figures are stored for this project
-my_pc = '/home/afarahani/Desktop/blood_annotation/Farahani_blood_perfusion/'
+my_pc = '/home/afarahani/Desktop/blood_annotation/Farahani_blood_perfusion_rev1/' #revision 1
 path_results     = my_pc + 'results/'
 path_resultsgene = my_pc + 'results_gene/'
 path_data        = my_pc + 'data/'
@@ -68,6 +70,6 @@ path_neurosynth_raw    = path_data + 'neurosynth_raw/' # Raw neurosynth maps
 path_vessel            = path_data + 'vessel_territories/' # Arterial territory maps in CIFTI format
 path_vessel_raw        = path_data + 'vessel_territories_raw/Atlas_182_MNI152/' # Volumetric arterial territory maps
 path_genes             = path_data + 'gene_expression/' # Genes coming from abagen toolbox - originally coming from AHBA
-
+path_genes_magic       = path_data + 'gene_magic/' # rev1 - Gene expression files - dense maps
 #------------------------------------------------------------------------------
 # END

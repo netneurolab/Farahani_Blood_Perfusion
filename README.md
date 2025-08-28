@@ -1,7 +1,9 @@
-# Cerebral blood perfusion across biological systems and the human lifespan
+# Mapping cerebral blood perfusion and its links to multi-scale brain organization across the human lifespan
 Authors: Asa Farahani, Zhen-Qi Liu, Eric G. Ceballos, Justine Y. Hansen, Karl Wennberg, Yashar Zieghami, Mahsa Dadar, Claudine J. Gauthier, Alain Dagher, Bratislav Misic.
 
-This repository contains the code used to generate the results in the "[Cerebral blood perfusion across biological systems and the human lifespan](https://www.biorxiv.org/content/10.1101/2025.02.05.636674v1)" maniuscript.
+This repository contains the code used to generate the results in the maniuscript named "Mapping cerebral blood perfusion and its links to multi-scale brain organization across the human lifespann".
+
+The paper is now available at [PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003277).
 
 ## Data Confidentiality Notice
 The Arterial Spin Labeling (ASL) dataset used in this study is provided by the HCP Lifespan studies, and cannot be publicly released by us. For more details and to request access to the dataset, please visit the [HCP Lifespan](https://www.humanconnectome.org/lifespan-studies) website.
